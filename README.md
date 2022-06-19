@@ -1,4 +1,4 @@
-# Profile-Card-Hover-Effect
+#Minimalist Profile Card
 Custom profile card using CSS only
 ![gambar](https://user-images.githubusercontent.com/56812760/174474532-098d20a1-0e3d-4ece-889d-091a05a6d144.png)
 
